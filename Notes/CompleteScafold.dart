@@ -1,3 +1,10 @@
+// See Output Here: https://github.com/akshay-fibe/Flutter-Study/blob/main/Notes/images/complete_Scafold_Output.png
+
+
+
+
+
+
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
